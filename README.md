@@ -27,5 +27,12 @@
 
 [架构师笔记03](https://github.com/richenlin/DayDayUp/blob/master/%E6%9E%B6%E6%9E%84%E5%B8%88/%E6%9E%B6%E6%9E%84%E5%B8%88%E7%AC%94%E8%AE%B003.md)
 
+* 服务无状态化设计
+* 服务负载均衡设计
+* 服务幂等设计
+* 数据访问层幂等性
+
 [架构师笔记04](https://github.com/richenlin/DayDayUp/blob/master/%E6%9E%B6%E6%9E%84%E5%B8%88/%E6%9E%B6%E6%9E%84%E5%B8%88%E7%AC%94%E8%AE%B004.md)
+
+* 分布式锁设计
 
