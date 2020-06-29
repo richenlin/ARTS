@@ -4,8 +4,6 @@
 
 ## ARTS 打卡计划
 
-![ARTS](https://tva1.sinaimg.cn/large/007S8ZIlly1gg85swkiu2j30ku0yudkd.jpg)
-
 ### Algorithm
 
 每周至少做一个Leetcode算法题。主要为了编程训练和学习。如果不训练看再多的算法书，依然不会做算法题。
