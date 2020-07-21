@@ -1,8 +1,4 @@
-# DayDayUp
-
-   好好学习，天天向上！！
-
-## ARTS 打卡计划
+# ARTS 打卡计划
 
 ### Algorithm
 
