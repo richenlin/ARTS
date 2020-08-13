@@ -3,4 +3,4 @@
 	url = https://github.com/richenlin/leetcode.git
 [submodule "golang/Script"]
 	path = golang/Script
-	url = https://github.com/gomorrha/Script.git
+	url = https://github.com/gorillazer/Script.git
