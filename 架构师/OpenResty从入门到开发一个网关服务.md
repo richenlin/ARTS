@@ -11,7 +11,6 @@ ngx_openresty 目前有两大应用目标：
 1. 通用目的的 web 应用服务器。在这个目标下，现有的 web 应用技术都可以算是和 OpenResty 或多或少有些类似，比如 Nodejs, PHP 等等。ngx_openresty 的性能（包括内存使用和 CPU 效率）算是最大的卖点之一。
 2. Nginx 的脚本扩展编程，用于构建灵活的 Web 应用网关和 Web 应用防火墙。有些类似的是 NetScaler。其优势在于 Lua 编程带来的巨大灵活性。
 
-引用自：[OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/base/intro.html)
 
 ## 入门教程
 
